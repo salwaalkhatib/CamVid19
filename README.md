@@ -60,13 +60,13 @@ This feature supports both upload and download of TXT files, and it facilitates 
 
 Using <code>pyaudio</code>, the podcast feature streams audio on port <code>5858</code>. Connected devices can pause and resume this stream.
 
-<p align="center"><img src="pics/podcast.png" width="60%"></p>
+<p align="center"><img src="pics/Podcast.png" width="60%"></p>
 
 ### Mail
 
 This feature connects to the Gmail <code>SMTP</code> server on port <code>587</code>, logs in to your account with your credentials, and sends an email to the chosen destination email.
 
-<p align="center"><img src="pics/mail.png" width="60%"></p>
+<p align="center"><img src="pics/Mail.png" width="60%"></p>
 
 ### Hamming Code Simulation
 
