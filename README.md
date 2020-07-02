@@ -94,9 +94,6 @@ This feature simulates a lossy channel through dropping packets based on a certa
 * **Wafic Lawand** - [Github](https://github.com/waficLawand)
 * **Salwa Al Khatib** - [Github](https://github.com/salwaalkhatib)
 
-## Contribuition
-
-<p align="center"><img src="pics/table.png" width="60%"></p>
 ## References
 
 * https://pythonspot.com/login-authentication-with-flask/
