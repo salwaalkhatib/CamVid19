@@ -19,7 +19,7 @@ pip install flask
 
 4. You have turned on the less secure app access in your google account, as shown below:
 
-<p align="center"><img src="pics/access.png" width="60%"></p>
+<p align="center"><img src="pics/access.PNG" width="60%"></p>
 
 5. You have turned off your Windows Defender Firewall so that other devices can connect to your device and view the streaming.
  
